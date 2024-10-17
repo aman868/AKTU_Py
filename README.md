@@ -16,3 +16,63 @@
 <a href="https://instagram.com/aman_taqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_taqib" height="30" width="40" /></a>
 <a href="https://www.behance.net/mdtaqib868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="md taqib" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages Used:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+<br>
+<br>
+
+<p align="left">
+<h2>List of experiments according AKTU 3rd Year: </h2>
+<h4>
+1. Write a program to find root of quadratic equation   
+<br>
+2. Write a program to find and delete repeating number in Given List
+<br>
+3. Write a program to input and print the element sum of user defined matrix
+<br>
+4. Write a program to input and multiply two different matrices
+<br>
+5. Write a program to compute eigen value and vector of a given 3*3 matrix using NumPy
+<br>
+6. Write a program to find a solution of linear equations in y-mx+c
+<br>
+7. Write a program to draw line using equation y=mx+c
+<br>
+8. Write the program to determine the intersection point of two line.
+<br>
+9. Draw various types of charts using matplotlib
+<br>
+10. Write a program to perform equations of uniform motion of kinematics:
+
+I
+
+i. v = u + ato
+
+ii. s = ut + (at²)
+
+v² = u²-2as
+
+11. Write a menu driven program to perform following properties of thermodynamics as given below:
+
+1. First Law of thermodynamics (U = Q - W), where AU is the change in the internal energy. Q is the heat added to the system, and W is the work done by the system.
+
+ii.
+
+Efficiency of Heat Engine = TH-TC/TH where TH & TC is the temperature of HOT and COLD
+
+Reservoirs.
+
+12. Write the menu program to find the to find the out relationship between stress and strain curve as given below:
+
+i. Young's Modulus
+
+ii. Shear Modulus
+
+iii. Poisson Ratio
+
+13. Write the program to determine the shear force and bending moment in beams
+</h4>
+
+</p>
