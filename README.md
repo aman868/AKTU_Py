@@ -26,53 +26,45 @@
 <p align="left">
 <h2>List of experiments according AKTU 3rd Year: </h2>
 <h4>
-1. Write a program to find root of quadratic equation   
+1. Write a program to find root of quadratic equation.  
 <br>
-2. Write a program to find and delete repeating number in Given List
+2. Write a program to find and delete repeating number in Given List.
 <br>
-3. Write a program to input and print the element sum of user defined matrix
+3. Write a program to input and print the element sum of user defined matrix.
 <br>
-4. Write a program to input and multiply two different matrices
+4. Write a program to input and multiply two different matrices.
 <br>
-5. Write a program to compute eigen value and vector of a given 3*3 matrix using NumPy
+5. Write a program to compute eigen value and vector of a given 3*3 matrix using NumPy.
 <br>
-6. Write a program to find a solution of linear equations in y-mx+c
+6. Write a program to find a solution of linear equations in y-mx+c.
 <br>
-7. Write a program to draw line using equation y=mx+c
+7. Write a program to draw line using equation y=mx+c.
 <br>
 8. Write the program to determine the intersection point of two line.
 <br>
-9. Draw various types of charts using matplotlib
+9. Draw various types of charts using matplotlib.
 <br>
 10. Write a program to perform equations of uniform motion of kinematics:
-
-I
-
-i. v = u + ato
-
-ii. s = ut + (at²)
-
-v² = u²-2as
-
+<ol type="i">
+<li> v = u + at0.
+ <br>
+<li> s = ut + (at²).
+ <br>
+<li> v² = u²-2as.</li>
+</ol>
 11. Write a menu driven program to perform following properties of thermodynamics as given below:
-
-1. First Law of thermodynamics (U = Q - W), where AU is the change in the internal energy. Q is the heat added to the system, and W is the work done by the system.
-
-ii.
-
-Efficiency of Heat Engine = TH-TC/TH where TH & TC is the temperature of HOT and COLD
-
-Reservoirs.
-
+<ol type="i">
+<li>First Law of thermodynamics (U = Q - W), where AU is the change in the internal energy. Q is the heat added to the system, and W is the work done by the system.
+<li>Efficiency of Heat Engine = TH-TC/TH where TH & TC is the temperature of HOT and COLD Reservoirs.
+</li></ol>
 12. Write the menu program to find the to find the out relationship between stress and strain curve as given below:
-
-i. Young's Modulus
-
-ii. Shear Modulus
-
-iii. Poisson Ratio
-
-13. Write the program to determine the shear force and bending moment in beams
+<ol type="i">
+<li>Young's Modulus.
+<li>Shear Modulus.
+<li>Poisson Ratio.</li>
+</ol>
+<br>
+13. Write the program to determine the shear force and bending moment in beams.
 </h4>
 
 </p>
