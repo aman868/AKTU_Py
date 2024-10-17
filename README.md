@@ -25,7 +25,7 @@
 
 <p align="left">
 <h2>List of experiments according AKTU 3rd Year: </h2>
-<img  align="right" alt="coding" width="250" src="https://imgs.search.brave.com/FMqX9FLeu0P8a8O4rfM-2PvwODri-Ux5_MBZwM-l1Wk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS81/ZWM4NDhlYzJiNTBi/NmNmYWUwNmY2Y2Mv/NjY3MWVlN2RmMjQy/OTNjZWRkNDg1OWVm/X25hdl90YXNrc18w/Mi5zdmc">
+<img  align="right" alt="coding" width="200" src="https://imgs.search.brave.com/FMqX9FLeu0P8a8O4rfM-2PvwODri-Ux5_MBZwM-l1Wk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS81/ZWM4NDhlYzJiNTBi/NmNmYWUwNmY2Y2Mv/NjY3MWVlN2RmMjQy/OTNjZWRkNDg1OWVm/X25hdl90YXNrc18w/Mi5zdmc">
 <h4>
 1. Write a program to find root of quadratic equation.  
 <br>
