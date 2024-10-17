@@ -1,4 +1,4 @@
-![logo](https://github.com/aman868/AKTU_Py/blob/main/else_in_loops.pn)
+![logo](https://github.com/aman868/AKTU_Py/blob/main/else_in_loops.png)
 
 <h1 align="center">AKTU Python lab program</h1>
 <h3 align="center">This repository is for students of AKTU python lab.</h3>
@@ -25,6 +25,7 @@
 
 <p align="left">
 <h2>List of experiments according AKTU 3rd Year: </h2>
+<img  align="right" alt="coding" width="250" src="https://imgs.search.brave.com/FMqX9FLeu0P8a8O4rfM-2PvwODri-Ux5_MBZwM-l1Wk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cHJvZC53ZWJzaXRl/LWZpbGVzLmNvbS81/ZWM4NDhlYzJiNTBi/NmNmYWUwNmY2Y2Mv/NjY3MWVlN2RmMjQy/OTNjZWRkNDg1OWVm/X25hdl90YXNrc18w/Mi5zdmc">
 <h4>
 1. Write a program to find root of quadratic equation.  
 <br>
@@ -63,7 +64,6 @@
 <li>Shear Modulus.
 <li>Poisson Ratio.</li>
 </ol>
-<br>
 13. Write the program to determine the shear force and bending moment in beams.
 </h4>
 
